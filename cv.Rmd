@@ -1,0 +1,148 @@
+---
+title: "Lucas Eduardo Rosolem resume"
+author: Lucas Eduardo Rosolem 
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+<!--![Lijia Yu](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%}-->
+
+
+Contato e informações {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> lucas-araras@outlook.com
+- <i class="fa fa-github"></i> [github.com/Lucas-Ed](https://bit.ly/2HcqU7j)
+- <i class="fab fa-linkedin-in"></i> [linkedin](https://bit.ly/3cxTFI3)
+- <i class="fa fa-phone"></i> +55 (19) 99823-5078
+- <i class="fa fa-phone"></i> +55 (19) 3544-5788
+- Para mais informações, entre em contato.
+
+
+Programming Skills {#skills}
+--------------------------------------------------------------------------------
+<!--https://fontawesome.com/-->
+
+<i class="fas fa-code-branch"></i> `Git`
+
+<i class="fab fa-github"></i> `GitHub`
+
+<i class="fab fa-markdown"></i> `Markdown`
+
+<i class="fab fa-html5"></i> `HTML5`
+
+<i class="fab fa-css3-alt"></i> `CSS`
+
+<i class="fab fa-wordpress"></i> `Wordpress`
+
+<i class="fab fa-python"></i></i> `Python`
+
+<i class="fas fa-tachometer-alt"></i> `Powerbi`
+
+<i class="fab fa-r-project"></i> `R-studio`
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Este currículo foi feito com o pacote R [**pagedown**](https://github.com/rstudio/pagedown).
+
+Última atualização em `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Lucas Eduardo Rosolem {#title}
+--------------------------------------------------------------------------------
+
+
+Gosto desafios profissionais e sempre gostei da ideia de trabalhar no mercado financeiro, tendo comprometimento com a geração de ótimos resultados como meta, viabilizando um 
+crescimento qualitativo e quantitativo. Em vista da necessidade de vossa Senhoria envio-lhe este documento, me colocando a disposição para maiores esclarecimentos, desde já muito obrigado pela atenção! 
+
+
+Educação {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Centro universitário FHO Uniararas 
+Bacharelado em Economia
+
+Araras, Brasil
+
+2021
+
+### CEV Treinamentos
+Programação HTML5 e PHP
+
+Online
+
+2017
+
+### Centro universitário FHO Uniararas
+Minicurso-Matemática Financeira usando o Excel
+
+Araras, Brasil
+
+2016
+
+### Centro universitário FHO Uniararas
+Minicurso-Cenário Economico e alocação de recursos
+
+Araras, Brasil
+
+2016
+
+### Microcamp internacional
+
+Lógica de programação
+Técnicas de programação em Pascal e
+Delphi com mySQL
+
+Araras, Brasil
+
+2006
+
+### People computação
+
+Hardware avançado-Montagem e manutenção de computadores-práticas de redes ponto a ponto. 
+
+Araras, Brasil
+
+2004
+
+
+Trabalhos voluntários {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Projeto Educação Financeira - Usina do Saber
+
+Por meio da instituição onde faço graduação, promoveu para alunos da rede pública no bairro da Usina São João em araras.
+
+Araras, Brasil
+
+2018
+
+### Monitoria
+
+Atividades de monitoria na disciplina de Matematica para Economistas na própria graduação.
+
+Araras, Brasil
+
+2018
+
+pequenos projetos  {data-icon=suitcase}
+--------------------------------------------------------------------------------
+### Dashboards Power BI
+Fiz soluções com dashboard para duas empresas de dois amigos para auxilia-los no acompanhamento das vendas nas empresas, e os projetos estão no meu repositório de códigos do [github](https://bit.ly/3wn4EfE)
+
+
+
