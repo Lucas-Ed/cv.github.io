@@ -50,6 +50,10 @@ Programming Skills {#skills}
 
 <i class="fab fa-r-project"></i> `R-studio`
 
+:::aside
+<i class="fas fa-download"></i> [Download](https://github.com/Lucas-Ed/cv.github.io/blob/0726daaa2de91cb4038236db3ebfc146ed1f5d0b/Lucas%20Eduardo%20Rosolem.pdf)
+:::
+
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
