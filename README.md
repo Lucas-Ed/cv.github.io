@@ -12,7 +12,7 @@ Contribua com qualquer valor para carteira Onchain BTC
 Ou vc pode contribuir tbm via a Lightinig network do BTC com apenas 500 sats
 <div align="center">
 
-![](/img/ln-donate.png)\
+![](/img/ln-donate.png)
 
 
 </div>
