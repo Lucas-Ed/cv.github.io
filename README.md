@@ -3,7 +3,7 @@
 ![](/img/pgd.png)
 
 
-Contribua com qualquer valor para carteira Onchain BTC
+Contribua com qualquer valor para carteira On chain BTC
 <div align="center">
 
 ![38z2dANBJQLttFoWej6G1QNnhCToa75vQg](/img/donate.png)\
