@@ -2,7 +2,9 @@
 <div align="center">
 ![](/img/pgd.png)
 </div>
-[](https://github.com/Lucas-Ed/cv.github.io/blob/master/Lucas%20Eduardo%20Rosolem.pdf)
+
+[Veja aqui o resultado.](https://github.com/Lucas-Ed/cv.github.io/blob/master/Lucas%20Eduardo%20Rosolem.pdf)
+
 ### Se quiser pode me pagar um cafézinho.
 
 <div align="center">
