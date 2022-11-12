@@ -1,6 +1,8 @@
 # Construção de currículo no Rstudio com: 
 <div align="center">
+
 ![](/img/pgd.png)
+
 </div>
 
 [Veja aqui o resultado.](https://github.com/Lucas-Ed/cv.github.io/blob/master/Lucas%20Eduardo%20Rosolem.pdf)
