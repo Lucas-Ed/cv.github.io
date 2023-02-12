@@ -23,6 +23,7 @@ Contato e informações {#contact}
 - <i class="fa fa-envelope"></i> lucas-araras@outlook.com
 - <i class="fa fa-github"></i> [github.com/Lucas-Ed](https://bit.ly/2HcqU7j)
 - <i class="fab fa-linkedin-in"></i> [linkedin](https://bit.ly/3cxTFI3)
+<!--- <i class="fa-solid fa-shop"></i> [Meu site.](https://bit.ly/3cxTFI3)-->
 - <i class="fa fa-phone"></i> +55 (19) 99823-5078
 - <i class="fa fa-phone"></i> +55 (19) 3544-5788
 - Para mais informações, entre em contato.
@@ -50,7 +51,7 @@ Programming Skills {#skills}
 
 <i class="fas fa-tachometer-alt"></i> `Powerbi`
 
-<i class="fab fa-r-project"></i> `R-studio`
+<!--<i class="fab fa-r-project"></i> `R-studio`-->
 
 :::aside
 <i class="fas fa-download"></i> [Download](https://github.com/Lucas-Ed/cv.github.io/blob/0726daaa2de91cb4038236db3ebfc146ed1f5d0b/Lucas%20Eduardo%20Rosolem.pdf)
@@ -78,12 +79,12 @@ Gosto desafios profissionais, tendo comprometimento com a geração de ótimos r
 Educação {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### Centro universitário FHO Uniararas 
+<!----### Centro universitário FHO Uniararas 
 Bacharelado em Economia, interrompido
 
 Araras, Brasil
 
-2021
+2021--->
 
 
 ### Senai-Luiz Varga
@@ -103,20 +104,20 @@ Online
 2017
 
 
-### Centro universitário FHO Uniararas
+<!---### Centro universitário FHO Uniararas
 Minicurso-Matemática Financeira usando o Excel
 
 Araras, Brasil
 
-2016
+2016--->
 
 
-### Centro universitário FHO Uniararas
+<!--### Centro universitário FHO Uniararas
 Minicurso-Cenário Economico e alocação de recursos
 
 Araras, Brasil
 
-2016
+2016-->
 
 
 ### Microcamp internacional
@@ -129,19 +130,19 @@ Araras, Brasil
 
 2006
 
-<!--### People computação
+### People computação
 
 Hardware avançado-Montagem e manutenção de computadores-práticas de redes ponto a ponto. 
 
 Araras, Brasil
 
-2004-->
+2004
 
 
-Trabalhos voluntários {data-icon=chalkboard-teacher}
+<!--Trabalhos voluntários {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Projeto Educação Financeira - Usina do Saber
+<!---### Projeto Educação Financeira - Usina do Saber
 
 Por meio da instituição onde faço graduação, promoveu para alunos da rede pública no bairro da Usina São João em araras.
 
@@ -155,12 +156,23 @@ Atividades de monitoria na disciplina de Matemática para Economistas na própri
 
 Araras, Brasil
 
-2018
+2018-->
 
 pequenos projetos  {data-icon=suitcase}
 --------------------------------------------------------------------------------
 ### Dashboards Power BI
-Fiz soluções com dashboard para duas empresas de dois amigos para auxilia-los no acompanhamento das vendas nas empresas, e os projetos estão no meu repositório de códigos do [github](https://bit.ly/3wn4EfE)
+Fiz soluções com dashboard para duas empresas de dois amigos para auxilia-los no acompanhamento das vendas nas empresas, e os projetos estão no meu repositório de códigos do [github.](https://bit.ly/3wn4EfE)
+
+Araras, Brasil
+
+2020
+
+### Freelance Web App B³
+Fiz uma aplicação para monitoramento dos ativos financeiros da Bolsa brasileira usando Streamlit com Python, o projeto foi uma demanda de um cliente, inicialmente a demanda era somente a necessidade de um algoritmo para monitoramento de médias dos preços dos ativos, dei a opção ao cliente de transformar o algoritmo em um web-app usando o Framework, o projeto pode ser vizualizado [aqui.](http://bit.ly/3lA0GPW)
+
+Online
+
+2023
 
 
 
