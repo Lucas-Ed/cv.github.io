@@ -4,7 +4,7 @@ author: Lucas Eduardo Rosolem
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
-    # set it to true for a self-contained HTML page but it'll take longer to render
+# configure-o como verdadeiro para uma página HTML independente, mas levará mais tempo para renderizar
     self_contained: True
 # uncomment this line to produce HTML and PDF in RStudio:
 #knit: pagedown::chrome_print
@@ -23,7 +23,8 @@ Contato e informações {#contact}
 - <i class="fa fa-envelope"></i> lucas-araras@outlook.com
 - <i class="fa fa-github"></i> [github.com/Lucas-Ed](https://bit.ly/2HcqU7j)
 - <i class="fab fa-linkedin-in"></i> [linkedin](https://bit.ly/3cxTFI3)
-<!--- <i class="fa-solid fa-shop"></i> [Meu site.](https://bit.ly/3cxTFI3)-->
+- <i class="fa-solid fa-shop"></i> [Meu site.](https://bit.ly/3LqsyAh)
+- <i class="fa-brands fa-blogger"></i> [Meu blog.](https://bit.ly/47reCiX)
 - <i class="fa fa-phone"></i> +55 (19) 99823-5078
 - <i class="fa fa-phone"></i> +55 (19) 3544-5788
 - Para mais informações, entre em contato.
@@ -33,32 +34,62 @@ Programming Skills {#skills}
 --------------------------------------------------------------------------------
 <!--https://fontawesome.com/-->
 
+<!--- ### Linguagens de programação--->
+
 <i class="fas fa-code-branch"></i> `Git`
 
 <i class="fab fa-github"></i> `GitHub`
 
 <i class="fab fa-markdown"></i> `Markdown`
 
-<i class="fab fa-html5"></i> `HTML5`
+<i class="fa-brands fa-python"></i> `Django`
+
+<i class="fa-brands fa-angular"></i> `Angular`
+
+<i class="fa-brands fa-react"></i> 'React'
+
+<!--<i class="fab fa-html5"></i> `HTML5`
 
 <i class="fab fa-css3-alt"></i> `CSS`
 
+<i class="fa-brands fa-square-js"></i> `JS`
+
+<i class="fab fa-python"></i></i> `Python`-->
+
 <i class="fa-brands fa-node"></i> `Node-js`
 
-<i class="fab fa-wordpress"></i> `Wordpress`
+<!--<i class="fab fa-wordpress"></i> `Wordpress`
 
-<i class="fab fa-python"></i></i> `Python`
+
+- ### Frameworks e bibliotecas
+
+
+<i class="fa-brands fa-python"></i> `Django`
+
+<i class="fa-brands fa-angular"></i> `Angular`
+
+<i class="fa-brands fa-react"></i> 'React'
+
+
+- ### Ferramentas de desenvolvimento
+
+<i class="fa-brands fa-visual-studio-code"></i> `Visual Studio Code`
+
+<i class="fab fa-r-project"></i> `R-studio`
+
+<i class="fa-brands fa-docker"></i> `Docker`
 
 <i class="fas fa-tachometer-alt"></i> `Powerbi`
-
-<!--<i class="fab fa-r-project"></i> `R-studio`-->
+--->
 
 :::aside
-<i class="fas fa-download"></i> [Download](https://github.com/Lucas-Ed/cv.github.io/blob/0726daaa2de91cb4038236db3ebfc146ed1f5d0b/Lucas%20Eduardo%20Rosolem.pdf)
+<!--<i class="fas fa-download"></i>
+[Download](https://github.com/Lucas-Ed/cv.github.io/blob/0726daaa2de91cb4038236db3ebfc146ed1f5d0b/Lucas%20Eduardo%20Rosolem.pdf)-->
 :::
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
+
 
 Este currículo foi feito com o pacote R [**pagedown**](https://github.com/rstudio/pagedown).
 
@@ -86,6 +117,30 @@ Araras, Brasil
 
 2021--->
 
+### Fundação Estudar
+Curso de Introdução à **Ciência da computação**,
+o curso é a versão brasileira do curso [CC50](https://bit.ly/48XIF2r) de **Harvard**,
+o [curso](https://bit.ly/3Q6Kth2) contou com carga horária de 70 horas e foco em algoritmos, estruturas de dados, e programação web. As linguagens utilizadas no curso incluiram C, Python e SQL, além de HTML, CSS e JavaScript.
+
+Online
+
+2023
+
+### Sansung (Ocean)
+Participação mini curso,
+Frontend Web ReactJS-introdutório.
+
+Online
+
+2023
+
+### Sansung (Ocean)
+Participação mini curso,
+Desenvolvimento Ágil- DevOps Docker.
+
+Online
+
+2023
 
 ### Senai-Luiz Varga
 Programador Front-End-
@@ -160,19 +215,24 @@ Araras, Brasil
 
 pequenos projetos  {data-icon=suitcase}
 --------------------------------------------------------------------------------
+
+### Freelance Web App B³
+Fiz uma aplicação para monitoramento dos ativos financeiros da Bolsa brasileira usando Streamlit com Python, o projeto foi uma demanda de um cliente, inicialmente a demanda era somente a necessidade de um algoritmo para monitoramento de médias dos preços dos ativos, dei a opção ao cliente de transformar o algoritmo em um web-app usando o Framework, o projeto pode ser vizualizado [aqui.](https://bit.ly/3tEyRu5)
+
+
+2023
+
+### Chatbot Padaria (Telegram)
+Desenvolvimento de chatbot para telegram, o chatbot é um aplicativo sobre o telegram para pedidos de uma padaria, ele permite o usuário selecionar os produtos desejados em um carrinho de compras, e faz o envio do pedido para o comerciante, além de outras funcionalidades, ele foi pensado por mim para suprir uma necessidade de instalações de aplicativos específicos, só que sem instalações de aplicativos que ocupem espaço no aparelho celular, usando assim o próprio Telegram que ja é instalado no aparelho do usuário, economizando assim espaço no aparelho do usuário  [Veja o vídeo.](https://bit.ly/3L9uyNd), você pode testar este chatbot no seu telegram: [https://t.me/padaria_emp_bot](https://t.me/padaria_emp_bot).
+
+
+2023
+
 ### Dashboards Power BI
 Fiz soluções com dashboard para duas empresas de dois amigos para auxilia-los no acompanhamento das vendas nas empresas, e os projetos estão no meu repositório de códigos do [github.](https://bit.ly/3wn4EfE)
 
-Araras, Brasil
 
 2020
-
-### Freelance Web App B³
-Fiz uma aplicação para monitoramento dos ativos financeiros da Bolsa brasileira usando Streamlit com Python, o projeto foi uma demanda de um cliente, inicialmente a demanda era somente a necessidade de um algoritmo para monitoramento de médias dos preços dos ativos, dei a opção ao cliente de transformar o algoritmo em um web-app usando o Framework, o projeto pode ser vizualizado [aqui.](http://bit.ly/3lA0GPW)
-
-Online
-
-2023
 
 
 
