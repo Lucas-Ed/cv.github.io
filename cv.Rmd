@@ -120,23 +120,25 @@ Araras, Brasil
 ### Fundação Estudar
 Curso de Introdução à **Ciência da computação**,
 o curso é a versão brasileira do curso [CC50](https://bit.ly/48XIF2r) de **Harvard**,
-o [curso](https://bit.ly/3Q6Kth2) contou com carga horária de 70 horas e foco em algoritmos, estruturas de dados, e programação web. As linguagens utilizadas no curso incluiram C, Python e SQL, além de HTML, CSS e JavaScript.
+o [curso](https://bit.ly/3Q6Kth2) contou com carga horária de 70 horas e foco em algoritmos, estruturas de dados, e programação web. As linguagens utilizadas no curso incluiram C, Python, Flask e SQL, além de HTML, CSS e JavaScript.
 
 Online
 
 2023
 
-### Sansung (Ocean)
+### Samsung (Ocean)
 Participação mini curso,
 Frontend Web ReactJS-introdutório.
+[certificado.](https://bit.ly/3tyiA9R)
 
 Online
 
 2023
 
-### Sansung (Ocean)
-Participação mini curso,
+### Samsung (Ocean)
+Participação Treinamento,
 Desenvolvimento Ágil- DevOps Docker.
+[certificado.](https://bit.ly/3QpPgKL)
 
 Online
 
