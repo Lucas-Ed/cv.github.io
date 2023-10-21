@@ -129,7 +129,7 @@ Online
 ### Samsung (Ocean)
 Participação mini curso,
 Frontend Web ReactJS-introdutório.
-[certificado.](https://bit.ly/3tyiA9R)
+<!--[certificado.](https://bit.ly/3tyiA9R)-->
 
 Online
 
@@ -138,7 +138,7 @@ Online
 ### Samsung (Ocean)
 Participação Treinamento,
 Desenvolvimento Ágil- DevOps Docker.
-[certificado.](https://bit.ly/3QpPgKL)
+<!--[certificado.](https://bit.ly/3QpPgKL)-->
 
 Online
 
