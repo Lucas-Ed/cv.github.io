@@ -82,16 +82,15 @@ Programming Skills {#skills}
 <i class="fas fa-tachometer-alt"></i> `Powerbi`
 --->
 
-:::aside
-<!--<i class="fas fa-download"></i>
-[Download](https://github.com/Lucas-Ed/cv.github.io/blob/0726daaa2de91cb4038236db3ebfc146ed1f5d0b/Lucas%20Eduardo%20Rosolem.pdf)-->
-:::
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
-
-
 Este currículo foi feito com o pacote R [**pagedown**](https://github.com/rstudio/pagedown).
+
+:::aside
+<i class="fas fa-download"></i>
+[Download](https://github.com/Lucas-Ed/cv.github.io/blob/0726daaa2de91cb4038236db3ebfc146ed1f5d0b/Lucas%20Eduardo%20Rosolem.pdf)
+:::
 
 Última atualização em `r Sys.Date()`.
 
@@ -138,6 +137,7 @@ Online
 ### Samsung (Ocean)
 Participação Treinamento,
 Desenvolvimento Ágil- DevOps Docker.
+[veja aqui sobre.](https://bit.ly/3QUU2kw)
 <!--[certificado.](https://bit.ly/3QpPgKL)-->
 
 Online
@@ -218,23 +218,34 @@ Araras, Brasil
 pequenos projetos  {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
+### Br-Digital
+O projeto é um chatbot sobre o Telegram da empresa de vendas online Br-Digital, o chatbot tem funcionalidades de cadastro de usuários assim como o projeto X-veículos, para posteriormente ser trabalhado com e-mail marketing, tem também a funcionalidade de mostruário de produtos e mostra também uma sessão de sobre, [Veja o vídeo,](https://streamable.com/vekx43) você pode testar este chatbot no seu telegram: [teste aqui.](https://bit.ly/478OmsT)
+
+
+2023
+
+
 ### Freelance Web App B³
 Fiz uma aplicação para monitoramento dos ativos financeiros da Bolsa brasileira usando Streamlit com Python, o projeto foi uma demanda de um cliente, inicialmente a demanda era somente a necessidade de um algoritmo para monitoramento de médias dos preços dos ativos, dei a opção ao cliente de transformar o algoritmo em um web-app usando o Framework, o projeto pode ser vizualizado [aqui.](https://bit.ly/3tEyRu5)
 
+2021
+
+### X-Veículos
+O projeto é ser um chatbot para Telegram de "Show Room " de uma loja de veículos, o chatbot tem funcionalidades de cadastro de usuários, para posteriormente ser trabalhado com e-mail marketing, contém também a funcionalidade de mostruário dos veículos e apresenta também uma sessão de sobre, [Veja o vídeo,](https://streamable.com/xvpfsh) você pode testar este chatbot no seu telegram: [teste aqui.](https://bit.ly/47q0Vjw)
+
 
 2023
+
 
 ### Chatbot Padaria (Telegram)
-Desenvolvimento de chatbot para telegram, o chatbot é um aplicativo sobre o telegram para pedidos de uma padaria, ele permite o usuário selecionar os produtos desejados em um carrinho de compras, e faz o envio do pedido para o comerciante, além de outras funcionalidades, ele foi pensado por mim para suprir uma necessidade de instalações de aplicativos específicos, só que sem instalações de aplicativos que ocupem espaço no aparelho celular, usando assim o próprio Telegram que ja é instalado no aparelho do usuário, economizando assim espaço no aparelho do usuário  [Veja o vídeo.](https://bit.ly/3L9uyNd), você pode testar este chatbot no seu telegram: [https://t.me/padaria_emp_bot](https://t.me/padaria_emp_bot).
+Desenvolvimento de chatbot para telegram, o chatbot é um aplicativo sobre o telegram para pedidos de uma padaria, ele permite o usuário selecionar os produtos desejados em um carrinho de compras, e faz o envio do pedido para o comerciante, além de outras funcionalidades, ele foi pensado por mim para suprir uma necessidade de instalações de aplicativos específicos, só que sem instalações de aplicativos que ocupem espaço no aparelho celular, usando assim o próprio Telegram que ja é instalado no aparelho do usuário, economizando assim espaço no aparelho do usuário  [Veja o vídeo,](https://bit.ly/3L9uyNd) você pode testar este chatbot no seu telegram, [aqui.](https://bit.ly/3uaC3xK)
 
 
 2023
+
 
 ### Dashboards Power BI
 Fiz soluções com dashboard para duas empresas de dois amigos para auxilia-los no acompanhamento das vendas nas empresas, e os projetos estão no meu repositório de códigos do [github.](https://bit.ly/3wn4EfE)
 
 
 2020
-
-
-
