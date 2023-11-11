@@ -89,7 +89,7 @@ Este currículo foi feito com o pacote R [**pagedown**](https://github.com/rstud
 
 :::aside
 <i class="fas fa-download"></i>
-[Download](https://github.com/Lucas-Ed/cv.github.io/blob/0726daaa2de91cb4038236db3ebfc146ed1f5d0b/Lucas%20Eduardo%20Rosolem.pdf)
+[Download](https://bit.ly/3QUajGw)
 :::
 
 Última atualização em `r Sys.Date()`.
